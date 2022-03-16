@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\bin\Debug\net5.0\ProgramPesel.exe
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\bin\Debug\net5.0\ProgramPesel.deps.json
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\bin\Debug\net5.0\ProgramPesel.runtimeconfig.json
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\bin\Debug\net5.0\ProgramPesel.runtimeconfig.dev.json
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\bin\Debug\net5.0\ProgramPesel.dll
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\bin\Debug\net5.0\ref\ProgramPesel.dll
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\bin\Debug\net5.0\ProgramPesel.pdb
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ProgramPesel.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ProgramPesel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ProgramPesel.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ProgramPesel.AssemblyInfo.cs
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ProgramPesel.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ProgramPesel.dll
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ref\ProgramPesel.dll
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ProgramPesel.pdb
+C:\Users\user\Documents\Ardian Domagała\klasa-3dg-2021-2022\Pierwszy projekt\ProgramPesel\obj\Debug\net5.0\ProgramPesel.genruntimeconfig.cache
